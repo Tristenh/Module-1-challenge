@@ -12,5 +12,5 @@ The codebase has been meticulously refactored to adhere to accessibility standar
 * 
 * ### deployed application
 https://tristenh.github.io/code_refactor/
-![Screenshot (23)](https://github.com/Tristenh/module-1-challenge/assets/121472192/53643778-e9cd-4533-bfc7-52e0a2f99aec)
-![Screenshot (26)](https://github.com/Tristenh/module-1-challenge/assets/121472192/18c7780d-eecd-4c42-a47e-6248781af6a2)
+![Screenshot (40)](https://github.com/Tristenh/code_refactor/assets/121472192/d119a404-bcd3-49e5-9749-02dc32fb5be6)
+![Screenshot (41)](https://github.com/Tristenh/code_refactor/assets/121472192/d18b651e-5104-40f2-acaf-3d679a6d8c45)
